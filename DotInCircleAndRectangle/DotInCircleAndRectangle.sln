@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotInCircleAndRectangle", "DotInCircleAndRectangle\DotInCircleAndRectangle.csproj", "{BDC16309-F23F-4384-927B-DEB80F4A526C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDC16309-F23F-4384-927B-DEB80F4A526C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC16309-F23F-4384-927B-DEB80F4A526C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC16309-F23F-4384-927B-DEB80F4A526C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC16309-F23F-4384-927B-DEB80F4A526C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17F48ADB-BAA6-4DF5-A212-54248B80A97C}
+	EndGlobalSection
+EndGlobal
